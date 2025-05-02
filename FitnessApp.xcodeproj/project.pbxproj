@@ -58,6 +58,11 @@
 			path = FitnessAppUITests;
 			sourceTree = "<group>";
 		};
+		44CEC3722DBAAD62005A6615 /* Videos */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Videos;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +93,7 @@
 		4467973D2DBA8A0800D5CF66 = {
 			isa = PBXGroup;
 			children = (
+				44CEC3722DBAAD62005A6615 /* Videos */,
 				446797482DBA8A0800D5CF66 /* FitnessApp */,
 				4467975F2DBA8A0D00D5CF66 /* FitnessAppTests */,
 				446797692DBA8A0D00D5CF66 /* FitnessAppUITests */,
@@ -122,6 +128,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				446797482DBA8A0800D5CF66 /* FitnessApp */,
+				44CEC3722DBAAD62005A6615 /* Videos */,
 			);
 			name = FitnessApp;
 			packageProductDependencies = (
