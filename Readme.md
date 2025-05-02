@@ -51,10 +51,21 @@ A clean and user-friendly iOS application built with Swift that helps users trac
 
 ---
 ## 🛠️ Image
+<p float="left">
+  <img src="/Screenshots/login.png" alt="Login Screen" width="300"/>
+  <img src="/Screenshots/stopwatch.png" alt="Stopwatch" width="300"/>
+</p>
 
-![Login Screen](/Screenshots/login.png) ![stopwatch](/Screenshots/stopwatch.png)
-![Workout Page](/Screenshots/exercise.png) ![Workout Page](/Screenshots/listofexercises.png)
-![register page](/Screenshots/register.png) ![profile page](/Screenshots/profile.png)
+<p float="left">
+  <img src="/Screenshots/exercise.png" alt="Workout Page" width="300"/>
+  <img src="/Screenshots/listofexercises.png" alt="List of Exercises" width="300"/>
+</p>
+
+<p float="left">
+  <img src="/Screenshots/register.png" alt="Register Page" width="300"/>
+  <img src="/Screenshots/profile.png" alt="Profile Page" width="300"/>
+</p>
+
 
 
 
